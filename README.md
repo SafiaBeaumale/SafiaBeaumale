@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://i.gifer.com/4hso.mp4" width="240px" align="center">
-</p>
+<img src="https://gifer.com/embed/23xl" width="240px" align="center">
