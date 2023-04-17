@@ -29,4 +29,4 @@
 
 <h3 align="left"> &#128222 Mes coordonnées :</h3>
 <p align="left"> &#128231 safia.beaumale-mesmar@epitech.eu</p>
-<p align="left"> &#128172 Mon profil <a href="https://www.linkedin.com/in/safia-beaumale-mesmar-6aa0941b8/">Linkdin</a></p>
+<p align="left"> &#128172 Mon profil <a href="https://www.linkedin.com/in/safia-beaumale-mesmar-6aa0941b8/">Linkedin</a></p>
