@@ -1,38 +1,83 @@
 <img src="https://github.com/SafiaBeaumale/SafiaBeaumale/blob/main/4hso.gif" width="80px" align="left">
-<h1 align="left">Bonjour &#9996;&#127996;, je suis Safia !</h1>
-<p align="left"> &#10024 Je suis en 2ème année à Epitech, École de technologie de l'information. </p>
-<p align="left"> &#10024 Je vous présente mes projets que je réalise dans le cadre de mon cursus ! </p>
+<h1 align="left">Bonjour, je suis Safia ! <img align="right" src="https://komarev.com/ghpvc/?username=safiabeaumale&label=Profile%20views&color=0e75b6&style=flat" alt="safiabeaumale" /></h1>
 
-<h2 align="left">&#8609; Voici les langages informatiques que je maîtrise :</h2>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-  <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="cmake" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://brandslogos.com/wp-content/uploads/thumbs/php-logo-vector.svg" alt="php" width="40" height="40"/>
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/symfony-logo-png-transparent.png" alt="symfony" width="40" height="40"/>
- </p>
- 
-<h2 align="left">&#8609; Ici, les outils informatiques que j'utilise :</h2>
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/PhpStorm_Icon.png" alt="docker" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/YouTrack_Icon.png/1200px-YouTrack_Icon.png" alt="youtrack" width="40" height="40"/>
-    <img src="https://techpeer.ee/dist/img/skills/freshdesk.webp" alt="freshdesk" width="40" height="40"/>
-   </p>
+<p align="left">🎓 Âgée de 23 ans, je suis actuellement en deuxième année à Epitech Lyon, où je me passionne pour les technologies de l'information.</p>
+<p>💻 J'ai principalement travaillé avec le langage C, mais mon objectif est de m'améliorer en développement backend, car c'est ce que j'adore faire le plus.</p> 
+<p>🚀 Je me lance en freelance et suis donc à la recherche de mes premiers clients. Si vous avez besoin de développement web frontend ou backend, d'une refonte, ou de debugging en backend, je suis là pour vous aider ! (Mes contacts en bas de page).</p>
+<p>🔍 Vous trouverez ici un récapitulatif de ce que je sais faire.</p>
 
-<h2 align="left">&#8609; Et les outils de création :</h2>
-<p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Prezi_logo_transparent_2012.svg/2048px-Prezi_logo_transparent_2012.svg.png" alt="prezi" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1200px-Notion-logo.svg.png" alt="figma" width="40" height="40"/>
-</p>
+<br>
 
-<h3 align="left"> &#128222 Mes coordonnées :</h3>
-<p align="left"> &#128231 safia.beaumale-mesmar@epitech.eu</p>
-<p align="left"> &#128172 Mon profil <a href="https://www.linkedin.com/in/safia-beaumale-mesmar-6aa0941b8/">Linkedin</a></p>
+<h2>&#127987; Ma progression</h2>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safiabeaumale" alt="safiabeaumale" /></a></p>
+
+<br>
+
+<h2>&#127987; Langages et Outils</h2>
+<table align="center">
+  <tr>
+    <td>
+      <h3 align="center">Environnement de travail</h3>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+        <img src="https://icones.pro/wp-content/uploads/2021/06/logo-windows-bleu.png" alt="window" width="40" height="40"/>
+        <img src= "https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" alt="github" width="40" height="40">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+        <img src="https://lh3.googleusercontent.com/noqM4FHCjCA-TDnHzstmFdTgaW2fI_ZKROZYvKxM8-8_IAPZ8v99cKkVdsnMtQSi-QzyflKlFn3s0zVMSF58o-2p5w=s60" alt="jetbrains" width="40" height="40"/>
+      </p>
+    </td>
+    <td>
+      <h3 align="center">Langages de programmation</h3>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+      </p>
+    </td>
+    <td>
+      <h3 align="center">Frameworks et Database</h3>
+      <p align="center">
+        <img src="https://cdn.freebiesupply.com/logos/large/2x/symfony-logo-png-transparent.png" alt="symfony" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3 align="center">Outils de Devops</h3>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/420px-Bash_Logo_black_and_white_icon_only.svg.png" alt="bash" width="40" height="40"/>
+      </p>
+    </td>
+    <td>
+      <h3 align="center">Outils Software</h3>
+      <p align="center">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Prezi_logo_transparent_2012.svg/2048px-Prezi_logo_transparent_2012.svg.png" alt="prezi" width="40" height="40"/>
+      </p>
+    </td>
+    <td>
+      <h3 align="center">Applications d'organisation</h3>
+      <p align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion" width="40" height="40"/>
+        <img src="https://taskcallapp.com/images/vendors/freshdesk/FreshdeskIcon.png" alt="freshdesk" width="40" height="40"/>
+        <img src="https://logos-world.net/wp-content/uploads/2021/02/Trello-Emblem.png" alt="trello" width="40" height="40"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+<h2>&#127987; Mes statistiques Github</h2>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safiabeaumale&show_icons=true&locale=en" alt="safiabeaumale" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=safiabeaumale&show_icons=true&locale=en&layout=compact" alt="safiabeaumale" width="355px"/></p>
+
+<br>
+
