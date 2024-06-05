@@ -80,4 +80,10 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=safiabeaumale&show_icons=true&locale=en&layout=compact" alt="safiabeaumale" width="355px"/></p>
 
 <br>
-
+<h2>&#127987; Mes contacts</h2>
+<img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="safiabeaumale"/>
+<p>safiamesmar84@gmail.com</p>
+<img align="left" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="safiabeaumale"/>
+<p>safia.beaumale-mesmar@epitech.eu</p>
+<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="safiabeaumale"/>
+<p>www.linkedin.com/in/safia-b-6aa0941b8</p>
